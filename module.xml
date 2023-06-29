@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Export generator="Cache" version="25">
-  <Document name="vscode-snippets-yourId-yourSuffix.ZPM">
+  <Document name="vscode-snippets-John.Murray-example.ZPM">
     <Module>
-      <Name>vscode-snippets-yourId-yourSuffix</Name>
+      <Name>vscode-snippets-John.Murray-example</Name>
       <Version>1.0.0</Version>
-      <Description>Install VS Code snippet files for use with intersystems-community.vscode-objectscript extension in server-side editing mode</Description>
+      <Description>Example of using https://github.com/gjsjohnmurray/oex-vscode-snippets-template to publish VS Code snippets through OEx and IPM</Description>
       <Packaging>module</Packaging>
       <Dependencies>
         <ModuleReference>
