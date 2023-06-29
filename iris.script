@@ -1,0 +1,7 @@
+    zn "%SYS"
+    Do ##class(Security.Users).UnExpireUserPasswords("*")
+
+    ; Create the /_vscode webapp
+    zpm "install vscode-per-namespace-settings"
+
+    halt
